@@ -22,6 +22,7 @@ coverage/*
 **/*.creator
 *.log
 .DS_Store
+bin/bitcoin*
 bin/litecoin*
 bin/SHA256SUMS.asc
 regtest/data/node1/regtest

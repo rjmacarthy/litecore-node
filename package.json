@@ -32,7 +32,7 @@
   ],
   "bin": {
     "litecore-node": "./bin/litecore-node",
-    "litecored": "./bin/litecored"
+    "litecoind": "./bin/bitcoind"
   },
   "scripts": {
     "preinstall": "./scripts/download",
@@ -72,7 +72,7 @@
   },
   "devDependencies": {
     "benchmark": "1.0.0",
-    "bitcore-p2p": "^1.1.0",
+    "litecore-p2p": "^1.1.0",
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.3",
